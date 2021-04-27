@@ -1,0 +1,32 @@
+body{
+    background-size: 1600px;
+}
+
+#object{
+    width:300px;
+    border-radius: 10px;
+}
+
+#status{
+    background-color: white;
+    width:150px;
+    border-radius: 10px;
+}
+
+#found{
+    background-color: white;
+    width:150px;
+    border-radius: 10px;
+}
+
+#start{
+    background-color: white;
+    color: black;
+    width:50px;
+    border-radius: 10px;
+}
+
+canvas{
+    border:2px, dashed, white;
+    box-shadow: 5px 5px 5px white;
+}
